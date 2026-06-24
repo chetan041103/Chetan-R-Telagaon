@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chetan R Telagaon
+# Hi , I'm Chetan R Telagaon
 
 ### Aspiring Data Scientist | AI/ML Enthusiast | Data Analyst
 
@@ -13,12 +13,12 @@ I am a Computer Science and Business Systems undergraduate passionate about tran
 
 ## About Me
 
-* 🔭 Currently working on Machine Learning and Data Science projects
-* 🌱 Learning Advanced Deep Learning, MLOps, and Cloud Technologies
-* 👨‍💻 Experienced in Python, SQL, Power BI, and Data Analytics
-* 📈 Interested in Data Science, Artificial Intelligence, and Business Analytics
-* 🎯 Goal: Build AI-driven solutions that solve real-world business problems
-* 💡 Strong believer in continuous learning and practical implementation
+*  Currently working on Machine Learning and Data Science projects
+*  Learning Advanced Deep Learning, MLOps, and Cloud Technologies
+*  Experienced in Python, SQL, Power BI, and Data Analytics
+*  Interested in Data Science, Artificial Intelligence, and Business Analytics
+*  Goal: Build AI-driven solutions that solve real-world business problems
+*  Strong believer in continuous learning and practical implementation
 
 ---
 
@@ -118,9 +118,9 @@ I am a Computer Science and Business Systems undergraduate passionate about tran
 
 ## Connect With Me
 
-* LinkedIn: [Add Your LinkedIn URL]
-* GitHub: [Add Your GitHub URL]
-* Email: [Add Your Email]
+* LinkedIn: https://www.linkedin.com/in/chetan-telagaon
+* GitHub: https://github.com/chetan041103
+* Email: chetu.talagaon@gmail.com
 
 ---
 
