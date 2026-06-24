@@ -1,129 +1,15 @@
-# Hi , I'm Chetan R Telagaon
+# 💫 About Me:
+# Hi 👋, I'm Chetan R Telagaon<br><br>### Aspiring Data Scientist | AI/ML Enthusiast | Data Analyst<br><br>I am a Computer Science and Business Systems undergraduate passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning and Artificial Intelligence.<br><br>🎓 B.Tech in Computer Science and Business Systems (VTU)<br>📍 Vijayapura, Karnataka, India<br>📊 Aspiring Data Scientist & AI/ML Engineer<br>🚀 Passionate about Data Analytics, Machine Learning, Deep Learning, and Business Intelligence<br><br>---<br><br>## About Me<br><br>* 🔭 Currently working on Machine Learning and Data Science projects<br>* 🌱 Learning Advanced Deep Learning, MLOps, and Cloud Technologies<br>* 👨‍💻 Experienced in Python, SQL, Power BI, and Data Analytics<br>* 📈 Interested in Data Science, Artificial Intelligence, and Business Analytics<br>* 🎯 Goal: Build AI-driven solutions that solve real-world business problems<br>* 💡 Strong believer in continuous learning and practical implementation<br><br>---<br><br>## Technical Skills<br><br>### Programming & Databases<br><br>* Python<br>* SQL<br>* MySQL<br>* PostgreSQL<br>* SQL Server<br><br>### Data Science & Machine Learning<br><br>* Pandas<br>* NumPy<br>* Matplotlib<br>* Seaborn<br>* Scikit-Learn<br>* Machine Learning<br>* Deep Learning<br>* Feature Engineering<br>* Model Evaluation<br>* Exploratory Data Analysis (EDA)<br><br>### Data Visualization & BI<br><br>* Power BI<br>* Microsoft Excel<br><br>### Development Tools<br><br>* Git & GitHub<br>* VS Code<br>* Jupyter Notebook<br>* Google Colab<br>* Streamlit<br><br>### Cloud & Deployment<br><br>* Streamlit Cloud<br>* Basic Cloud Deployment<br><br>---<br><br>## Projects<br><br>### Face Recognition Attendance System<br><br>**Technologies:** Python, OpenCV, LBPH, Excel<br><br>* Developed an automated attendance management system using face recognition.<br>* Implemented real-time face detection and identification.<br>* Automated attendance tracking and storage.<br>* Generated attendance reports in Excel format.<br><br>### Customer Shopping Behavior Analysis<br><br>**Technologies:** Python, SQL, PostgreSQL, Power BI<br><br>* Performed data cleaning and preprocessing using Pandas.<br>* Conducted Exploratory Data Analysis (EDA).<br>* Analyzed customer purchasing behavior using SQL.<br>* Built interactive Power BI dashboards.<br>* Generated business insights for data-driven decision-making.<br><br>---<br><br>## Internship Experience<br><br>### AI/ML Intern | Inventeron Technologies and Business Solutions LLP<br><br>* Worked on real-world Machine Learning projects.<br>* Built and evaluated predictive models using Python and Scikit-Learn.<br>* Applied feature engineering and data preprocessing techniques.<br>* Contributed to complete ML workflows from data collection to deployment.<br>* Gained practical experience with TensorFlow and model optimization.<br><br>---<br><br>## Certifications<br><br>* AI & Data Science Certification (IIT Indore) – Pursuing<br>* Power BI Workshop Certification<br>* Hackathon Participant – GIT Belagavi<br><br>---<br><br>## Languages<br><br>* English<br>* Kannada<br>* Hindi<br><br>---<br><br>## Connect With Me<br><br>* LinkedIn: [Add Your LinkedIn URL]<br>* GitHub: [Add Your GitHub URL]<br>* Email: [Add Your Email]<br><br>---<br><br>### Quote<br><br>"Turning data into insights and ideas into intelligent solutions."<br>
 
-### Aspiring Data Scientist | AI/ML Enthusiast | Data Analyst
 
-I am a Computer Science and Business Systems undergraduate passionate about transforming data into meaningful insights and building intelligent solutions using Machine Learning and Artificial Intelligence.
-
-🎓 B.Tech in Computer Science and Business Systems (VTU)
-📍 Vijayapura, Karnataka, India
-📊 Aspiring Data Scientist & AI/ML Engineer
-🚀 Passionate about Data Analytics, Machine Learning, Deep Learning, and Business Intelligence
-
----
-
-## About Me
-
-*  Currently working on Machine Learning and Data Science projects
-*  Learning Advanced Deep Learning, MLOps, and Cloud Technologies
-*  Experienced in Python, SQL, Power BI, and Data Analytics
-*  Interested in Data Science, Artificial Intelligence, and Business Analytics
-*  Goal: Build AI-driven solutions that solve real-world business problems
-*  Strong believer in continuous learning and practical implementation
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=chetan041103&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=chetan041103&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=chetan041103&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=chetan041103&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Technical Skills
-
-### Programming & Databases
-
-* Python
-* SQL
-* MySQL
-* PostgreSQL
-* SQL Server
-
-### Data Science & Machine Learning
-
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Machine Learning
-* Deep Learning
-* Feature Engineering
-* Model Evaluation
-* Exploratory Data Analysis (EDA)
-
-### Data Visualization & BI
-
-* Power BI
-* Microsoft Excel
-
-### Development Tools
-
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Google Colab
-* Streamlit
-
-### Cloud & Deployment
-
-* Streamlit Cloud
-* Basic Cloud Deployment
-
----
-
-## Projects
-
-### Face Recognition Attendance System
-
-**Technologies:** Python, OpenCV, LBPH, Excel
-
-* Developed an automated attendance management system using face recognition.
-* Implemented real-time face detection and identification.
-* Automated attendance tracking and storage.
-* Generated attendance reports in Excel format.
-
-### Customer Shopping Behavior Analysis
-
-**Technologies:** Python, SQL, PostgreSQL, Power BI
-
-* Performed data cleaning and preprocessing using Pandas.
-* Conducted Exploratory Data Analysis (EDA).
-* Analyzed customer purchasing behavior using SQL.
-* Built interactive Power BI dashboards.
-* Generated business insights for data-driven decision-making.
-
----
-
-## Internship Experience
-
-### AI/ML Intern | Inventeron Technologies and Business Solutions LLP
-
-* Worked on real-world Machine Learning projects.
-* Built and evaluated predictive models using Python and Scikit-Learn.
-* Applied feature engineering and data preprocessing techniques.
-* Contributed to complete ML workflows from data collection to deployment.
-* Gained practical experience with TensorFlow and model optimization.
-
----
-
-## Certifications
-
-* AI & Data Science Certification (IIT Indore) – Pursuing
-* Power BI Workshop Certification
-* Hackathon Participant – GIT Belagavi
-
----
-
-## Languages
-
-* English
-* Kannada
-* Hindi
-
----
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/chetan-telagaon
-* GitHub: https://github.com/chetan041103
-* Email: chetu.talagaon@gmail.com
-
----
-
-### Quote
-
-"Turning data into insights and ideas into intelligent solutions."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
